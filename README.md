@@ -1,4 +1,34 @@
-# Анализ продаж одежды разных сегментов за год в Power BI
+#Analysis of clothing sales in different segments for a year in Power BI
+Project description: This project is dedicated to the analysis of clothing sales in different segments (high-end, mid-range, luxury, low-end, newborns, school, other) for a year. As part of the project, ABC testing was conducted to determine which segment is in demand. Tools and technologies: Microsoft Power BI was used to implement this project. The data was prepared and stored in Excel format. Project structure:
+
+Project description
+Data loading and preparation
+Report creation
+Implementation of ABC analysis
+Visualization of results
+Conclusions
+
+Data loading and preparation: The data was loaded from an Excel file. The following manipulations were carried out to work with the data correctly:
+• Changing data types
+• Combining tables
+• Filtering data
+
+Report creation: To create the report, the necessary visualizations were created:
+• Sales chart by month
+• Sales distribution diagram by segments
+• Table with sales details by categories
+• Sales chart by categories
+
+Implementation of ABC analysis: ABC analysis was conducted to determine the most demanded segments. To do this, the sales shares of each segment were calculated and their sum was performed in descending order. Thus, categories A, B, and C were determined.
+
+Visualization of results: The results of the analysis were visualized in the form of an ABC analysis diagram and a sales chart by categories.
+
+Conclusions:
+• The most demanded segments are: high-end, mid-range, and luxury.
+• Low-end and other segments occupy a smaller share of total sales.
+• Sales in different categories have different dynamics, which can be used for managerial decision-making.
+
+#Анализ продаж одежды разных сегментов за год в Power BI
 Описание проекта:
 Данный проект посвящен анализу продаж одежды разных сегментов (дорогой, средний, люксовый, низкий, новорожденные, школа, прочее) за год. В рамках проекта было проведено ABC тестирование, чтобы определить, какой сегмент в спросе.
 Инструменты и технологии:
